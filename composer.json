@@ -1,5 +1,5 @@
 {
-  "name": "yoanm/symfony-jsonrpc-http-server",
+  "name": "nemesis1988/symfony-jsonrpc-http-server",
   "description": "Symfony Bundle to convert an HTTP json-rpc request into HTTP json-rpc response",
   "license": "MIT",
   "type": "library",
